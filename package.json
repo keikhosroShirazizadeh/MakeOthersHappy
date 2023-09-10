@@ -1,0 +1,15 @@
+{
+  "name": "makeothershappy",
+  "version": "1.0.0",
+  "description": "this project starts with nodejs for backend-apies and mongodb as db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0"
+  }
+}
