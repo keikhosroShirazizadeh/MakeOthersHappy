@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "description": "this project starts with nodejs for backend-apies and mongodb as db",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "mongodb": "^6.0.0"
-  }
+    "mongodb": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keikhosroShirazizadeh/MakeOthersHappy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keikhosroShirazizadeh/MakeOthersHappy/issues"
+  },
+  "homepage": "https://github.com/keikhosroShirazizadeh/MakeOthersHappy#readme"
 }
