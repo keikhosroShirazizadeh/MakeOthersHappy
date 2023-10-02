@@ -1,0 +1,402 @@
+{
+  "rootTopicKey": "a2f65513-cfa9-46c5-87a3-254d9b1711f0",
+  "editorRootTopicKey": "a2f65513-cfa9-46c5-87a3-254d9b1711f0",
+  "focusKey": "fe66fa54-4b31-425b-a1b8-74e8244ce859",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "parentKey": "a2f65513-cfa9-46c5-87a3-254d9b1711f0",
+      "subKeys": [
+        "2586c11c-9d35-43e7-9cac-9e25efd92c91",
+        "af09e21d-8317-4d5a-88e2-0061a1b0d43a",
+        "ee98a3f1-94f1-4b78-93fd-2a3fe8415a96",
+        "d15d1090-a794-4269-8ea2-31cc89263ab4",
+        "15e48b2a-00b0-4753-bc93-2e5421515834",
+        "2aa7da3b-4278-453e-983d-63429d73fa9e",
+        "fe66fa54-4b31-425b-a1b8-74e8244ce859"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "e﻿nlightment-posts\n"
+        }
+      ]
+    },
+    {
+      "key": "ad482020-838b-4743-ad46-64d32d6a3330",
+      "parentKey": "2349def9-2d91-4581-9939-16810968926e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "i﻿tem"
+        }
+      ]
+    },
+    {
+      "key": "7ccb111d-3bd0-49f2-bd25-40b76836dfea",
+      "parentKey": "0073f4e3-1946-469a-b366-2fd55fdc46b4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "l﻿inks\n"
+        }
+      ]
+    },
+    {
+      "key": "2586c11c-9d35-43e7-9cac-9e25efd92c91",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "t﻿opic/title\n"
+        }
+      ]
+    },
+    {
+      "key": "f5c48280-8dd4-422d-9e69-3cd4856a7818",
+      "parentKey": "ee98a3f1-94f1-4b78-93fd-2a3fe8415a96",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "t﻿rigger/idea\n"
+        }
+      ]
+    },
+    {
+      "key": "d15d1090-a794-4269-8ea2-31cc89263ab4",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "a﻿cceptance-rate"
+        }
+      ]
+    },
+    {
+      "key": "ee98a3f1-94f1-4b78-93fd-2a3fe8415a96",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [
+        "f5c48280-8dd4-422d-9e69-3cd4856a7818",
+        "97001724-bff5-4b0e-ad66-0329291a3fc8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "r﻿easons and facts\n"
+        }
+      ]
+    },
+    {
+      "key": "2758b2fd-7d5f-4aa2-b2f1-a7f8e8d23e3f",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "t﻿opic/title\n"
+        },
+        {
+          "type": "DESC",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "fe66fa54-4b31-425b-a1b8-74e8244ce859",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "m﻿edia-links\n"
+        }
+      ]
+    },
+    {
+      "key": "d725bccc-d3ea-422a-bdfb-557c0ef7eabc",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "s﻿core of productivity"
+        }
+      ]
+    },
+    {
+      "key": "48bd0d7f-b5da-4922-a2b7-c02612b5211b",
+      "parentKey": "2349def9-2d91-4581-9939-16810968926e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "i﻿tem-description"
+        }
+      ]
+    },
+    {
+      "key": "0073f4e3-1946-469a-b366-2fd55fdc46b4",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [
+        "d491b0fd-9556-47d8-b692-ae8423d4ae62",
+        "7ccb111d-3bd0-49f2-bd25-40b76836dfea"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "m﻿edia-links"
+        }
+      ]
+    },
+    {
+      "key": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "parentKey": "a2f65513-cfa9-46c5-87a3-254d9b1711f0",
+      "subKeys": [
+        "2758b2fd-7d5f-4aa2-b2f1-a7f8e8d23e3f",
+        "4654d022-098e-4a00-96dd-aad5936acb36",
+        "2349def9-2d91-4581-9939-16810968926e",
+        "a35fbbfb-3350-4260-95a9-014072728861",
+        "8d08e256-d876-47a4-b24c-128f9bdef05e",
+        "d725bccc-d3ea-422a-bdfb-557c0ef7eabc",
+        "0073f4e3-1946-469a-b366-2fd55fdc46b4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "i﻿nstruction-post"
+        }
+      ]
+    },
+    {
+      "key": "d491b0fd-9556-47d8-b692-ae8423d4ae62",
+      "parentKey": "0073f4e3-1946-469a-b366-2fd55fdc46b4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "n﻿ame"
+        }
+      ]
+    },
+    {
+      "key": "af09e21d-8317-4d5a-88e2-0061a1b0d43a",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "d﻿escriptions\n"
+        }
+      ]
+    },
+    {
+      "key": "15e48b2a-00b0-4753-bc93-2e5421515834",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "n﻿umber of likes\n"
+        }
+      ]
+    },
+    {
+      "key": "2349def9-2d91-4581-9939-16810968926e",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [
+        "ad482020-838b-4743-ad46-64d32d6a3330",
+        "48bd0d7f-b5da-4922-a2b7-c02612b5211b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "i﻿nstructions\n"
+        },
+        {
+          "type": "DESC",
+          "data": "i﻿nstructions\nis a array of object of items\nitems\ndescription﻿"
+        }
+      ]
+    },
+    {
+      "key": "a35fbbfb-3350-4260-95a9-014072728861",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "r﻿esources\n"
+        },
+        {
+          "type": "DESC",
+          "data": "a﻿rray of links that makes reader aware of your resources that comes you to this place\n"
+        }
+      ]
+    },
+    {
+      "key": "a2f65513-cfa9-46c5-87a3-254d9b1711f0",
+      "parentKey": null,
+      "subKeys": [
+        "c5b07f54-0f26-4162-92f1-27f17e65206b",
+        "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "posts"
+        }
+      ]
+    },
+    {
+      "key": "8d08e256-d876-47a4-b24c-128f9bdef05e",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "n﻿umber of likes"
+        }
+      ]
+    },
+    {
+      "key": "97001724-bff5-4b0e-ad66-0329291a3fc8",
+      "parentKey": "ee98a3f1-94f1-4b78-93fd-2a3fe8415a96",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "d﻿escription and explaination"
+        }
+      ]
+    },
+    {
+      "key": "2aa7da3b-4278-453e-983d-63429d73fa9e",
+      "parentKey": "3b4dd1f0-e091-4c9b-b75c-c62c1eea76af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "r﻿esources"
+        }
+      ]
+    },
+    {
+      "key": "4654d022-098e-4a00-96dd-aad5936acb36",
+      "parentKey": "c5b07f54-0f26-4162-92f1-27f17e65206b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "g﻿oal"
+        },
+        {
+          "type": "DESC",
+          "data": "w﻿hat following this instruction can do\n"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
